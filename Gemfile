@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 source 'https://rubygems.org'
 
 gem 'rails', '3.2.1'
@@ -36,3 +37,8 @@ gem 'jquery-rails'
 
 # To use debugger
 # gem 'ruby-debug19', :require => 'ruby-debug'
+=======
+source 'http://rubygems.org'
+gem 'rails', '3.0.0'
+gem 'sqlite3-ruby', '1.2.5', :require => 'sqlite3'
+>>>>>>> 77d9e8d1a46969a2766ec81abb9b21c2a064cf43
